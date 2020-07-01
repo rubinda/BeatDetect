@@ -1,4 +1,7 @@
 # Detekcija ritma v glasbi
+
+>Rešitev skupaj z grafi delovanja je prikazana v [poročilu](porocilo.pdf)
+
 S pomočjo diskretne valčne transformacije boste izdelali  postopek za detekcijo ritma basov v glasbi. Postopek detekcije ritma se bo izvajal paketno (ang. ofline), po pritisku na poseben gumb, saj je postopek obdelave za procesno enoto dokaj zahteven. 
 
 Postopek detekcije ritma je povzet po opisu v članku Musical Genre Classification of Audio Signals, v 3. poglavju (Feature Extraction), podpoglavje C. Sestoji iz naslednjih korakov:
